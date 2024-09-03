@@ -49,8 +49,8 @@ Correlation matrix to identify multicollinearity.
 ### 5. Lasso and Ridge Regression
 1. Objective: Apply regularization techniques to improve the model's generalization.
 2. Methods Applied:
-a. Lasso Regression: Penalizes the absolute size of coefficients, useful for feature selection.
-b. Ridge Regression: Penalizes the square of coefficients, helps in handling multicollinearity.
+1. Lasso Regression: Penalizes the absolute size of coefficients, useful for feature selection.
+2. Ridge Regression: Penalizes the square of coefficients, helps in handling multicollinearity.
 3. Comparison: The performance of Lasso and Ridge models compared with the original models using the same evaluation metrics.
 ### Conclusion
 The project successfully predicted the price of Toyota Corolla cars using multiple linear regression models. The application of Lasso and Ridge regression further refined the models, demonstrating the effectiveness of regularization techniques in improving model performance and interpretability.
